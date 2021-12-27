@@ -80,6 +80,7 @@ class OwnerControllerTests {
 		george.setAddress("110 W. Liberty St.");
 		george.setCity("Madison");
 		george.setTelephone("6085551023");
+		george.setAge(18);
 		Pet max = new Pet();
 		PetType dog = new PetType();
 		dog.setName("dog");
